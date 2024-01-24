@@ -26,8 +26,8 @@ The dataset has been provided for you.
 
 
 ```
-    python formative_one_visualization.py
+    python /<folder>/file.py
 ```
-
-Here is the link to my Google Colab notebook.
-- [Colab Link](https://colab.research.google.com/drive/1N56-XadUMJQ3Zq65bJ3pdEXLaj_Uiojn?usp=sharing)
+### please note that
+- the code is in the folder named  `<folder>`
+- the file to run is named `file.py`
