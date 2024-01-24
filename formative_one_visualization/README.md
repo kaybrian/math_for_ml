@@ -29,5 +29,5 @@ The dataset has been provided for you.
     python formative_one_visualization.py
 ```
 
-
-
+Here is the link to my Google Colab notebook.
+- [Colab Link](https://colab.research.google.com/drive/1N56-XadUMJQ3Zq65bJ3pdEXLaj_Uiojn?usp=sharing)
